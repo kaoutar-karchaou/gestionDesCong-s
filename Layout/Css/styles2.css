@@ -1,0 +1,60 @@
+/* Made with love by Mutiullah Samim*/
+
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+html,body{
+    margin:0;
+   padding:0;
+background-image: url('http://getwallpapers.com/wallpaper/full/a/5/d/544750.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+font-family: 'Numans', sans-serif;
+    border-radius: 5px;
+    
+
+}
+.m{
+    border:white solid 3px;
+    padding:12px 20px;
+    margin-bottom: 40px;
+    width:250px;
+    cursor: pointer;
+    background: silver;
+
+    
+    
+
+}
+.img1{
+    height:70px;
+    width:1400px;
+    left: 80%;
+    
+}
+.img2{
+    float: right;
+    margin:20px;
+    width: 120px;
+    height: 100px;
+    float:right;
+    margin:20px;
+    height: 40px;
+     border:white solid 1px;
+    width:200px;
+    cursor: pointer;
+    background: silver;
+}
+    .n{
+        float: right;
+        height:20px;
+        text-align:inherit;
+        width: 120px;
+    
+}
+.img3{
+
+    height:90px;
+    width:1500px;
+    left: 80%;
+}
